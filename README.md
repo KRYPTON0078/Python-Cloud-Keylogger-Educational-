@@ -102,4 +102,7 @@ This project is open-source and available under the GNU General Public License v
 See the [LICENSE](LICENSE) file for full license details.
 
 ---
-
+<div align="center">
+<b>Developed by <a href="Magne Dina Neves">Magne Dina Neves</a></b><br/>
+<i>Student @ NIBM | Undergraduate</i>
+</div>
