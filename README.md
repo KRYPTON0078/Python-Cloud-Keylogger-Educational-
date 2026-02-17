@@ -104,6 +104,6 @@ See the [LICENSE](LICENSE) file for full license details.
 ---
 
 <div align="center">
-<b>Developed by <a href="https://www.mohamedshiras.dev">Mohamed Shiras</a></b><br/>
+<b>Developed by <a href="Magne Dina Neves">Mohamed Shiras</a></b><br/>
 <i>Student @ NIBM | Undergraduate</i>
 </div>
